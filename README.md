@@ -1,0 +1,1 @@
+This is an example of a View Controller containing a full screen UITableView with an underlying UIMapView. UITableView scrolls on top of the UIMapView to maximize real estate. 
